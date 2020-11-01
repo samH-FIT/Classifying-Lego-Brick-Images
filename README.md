@@ -10,5 +10,3 @@ https://www.kaggle.com/joosthazelzet/lego-brick-images?select=dataset
 
 The database from the first link also provides us with a listing of the validation set:
 https://www.kaggle.com/joosthazelzet/lego-brick-images?select=validation.txt
-This listing contains 20% of the file names listed in the dataset of 40,000 images of 50 different
-classes that we plan to use for training our model.
